@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  background-color: #1c1c1c;
+  color: white;
+}
+
+.btn {
+  background-color: transparent;
+  color: white;
+  font-size: 30px;
+  border: none;
+  cursor: pointer;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+}
+
+.btn:hover {
+  color: rgb(0, 255, 106);
+}
+
+.playing {
+  text-align: center;
+}
